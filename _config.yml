@@ -24,3 +24,5 @@ userguide:
 - title: "Other widgets"
   page: other-widgets.html
 
+
+theme: jekyll-theme-cayman
